@@ -1,7 +1,7 @@
 {
-    "name": "MODULE",
+    "name": "Applied Signal and Image Processing",
     
-    "image": "ghcr.io/socstech/MODULE:latest",
+    "image": "ghcr.io/socstech/cmp9780:latest",
 
     //"build": { "dockerfile": "Dockerfile" },
 
